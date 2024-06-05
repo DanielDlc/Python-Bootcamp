@@ -1,5 +1,5 @@
 """
-Calculator in python
+Calculator
 """
 
 print('Welcome to the tip calculator!')
